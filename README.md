@@ -4,6 +4,12 @@ A Spring Boot REST API for managing employee data. This backend service supports
 
 ---
 
+## Link to FrontEnd app repository
+
+https://github.com/SebiB24/fullstackExample-frontend
+
+---
+
 ## 🚀 Features
 
 - RESTful API endpoints for employee management  
@@ -98,8 +104,3 @@ http://localhost:8080
 - mysql-connector-java  
 - lombok  
 
----
-
-## ✅ License
-
-This project is open-source and available for educational and commercial use.
